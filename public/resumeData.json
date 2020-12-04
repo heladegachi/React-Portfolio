@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Hela Degachi",
+    "occupation": "Java Spring Boot Developer && Freelancer @Fiverr and @Khamsat",
+    "description": "Full Stack Java Developer by Day, Freelancer by Night.",
+    "image": "IMG_hela.jpg",
+    "bio": "My name is Hela, I'm a Full Stack Java Developer. Currently I'm a final year student at ESPRIT in search of a End-Of-Studies internship ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "degachihela2@gmail.com",
+    "phone": "+216 99 113 721",
+    "address": {
+      "street": "Pole Technologique, El Ghazela",
+      "city": "Ariana",
+      "state": "Tunisia",
+      "zip": "2083"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1b1BZAJAtYCkqsOQzl67wWVc8ZUpkRH0w/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hela.degachi/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/heladegachi/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/heladegachi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/heladegachi/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "ESPRIT Private Computer Science Engineering School",
+        "degree": "Computer Science Engineering",
+        "expected graduation": "July 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Timsoft",
+        "title": "Software Engineer",
+        "years": "Aug 2020 - October 2020",
+        "description": "Developed critical modules of a Spa Booking Tool for 'Centre Lella Baya' utilizing Angular 8 and ASP.net Core Web API."
+      },
+      {
+        "company": "Online",
+        "title": "",
+        "years": "July 2017 - Present",
+        "description": "Motion Graphic Design."
+      }      
+    ],
+    "skills": [
+      {
+        "name": "SpringBoot, Java",
+        "level": "90%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5, CSS, JS",
+        "level": "60%"
+      },
+      {
+        "name": "Design Tools (Adobe XD, Photoshop, After Effects, Premiere Pro, Illustrator)",
+        "level": "70%"
+      },
+      {
+        "name": "English",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Real Estate Market Platform",
+        "category": "Web application (SpringBoot, MySQL, Hibernate and Apache Maven)",
+        "image": "Accueil - Google Chrome 16_06_2020 03_08_48.png",
+        "url": "https://github.com/heladegachi/Real-Estate-Spring-Platform"
+      },
+      {
+        "title": "FixIt Freelance Platform",
+        "category": "(Symfony 3.4, Java FX, Wamps Server, CodeName One)",
+        "image": "Films et TV 20_12_2019 15_33_15.png",
+        "url": "https://github.com/heladegachi/FixIt-Freelance-Platform-Symfony3.4"
+      },
+      {
+        "title": "Spa Booking Tool",
+        "category": "(Angular 8, Asp.net Framework, Identity Core)",
+        "image": "spa lella lbaya.png",
+        "url": "https://github.com/heladegachi/Spa-Booking-Tool"
+      },
+      {
+        "title": "Gym Management Application",
+        "category": "Developed using C language on Linux OS",
+        "image": "Films et TV 05_11_2019 14_18_09.png",
+        "url": "https://drive.google.com/file/d/12QVTcREXbco9JAEvwjvwAyrtTNc7SC7w/view?usp=sharing"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Hela was an absolute pleasure to work with and extremely professional. I was continually kept updated during the process. I had a vision for my video and Hela executed it amazingly with her creativity. I would definitely recommend Hela. Thanks again.",
+        "user": "Karen Pascall -Fiverr"
+      },
+      {
+        "text": "Seller is Exceptionally Skilled and Professional Work Output is Excellent with prompt delivery Work Ethics and Attitude surpass our expectation Seller would go the extra mile for buyer satisfaction",
+        "user": "Michael Mendo - Fiverr"
+      }
+    ]
+  }
+}
