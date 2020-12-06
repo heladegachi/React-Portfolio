@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Things I'm best at",
     "education": [
       {
         "school": "ESPRIT Private Computer Science Engineering School",
@@ -69,8 +69,16 @@
         "level": "90%"
       },
       {
-        "name": "SQL",
+        "name": "SQL, MySQL, SQL Server",
         "level": "80%"
+      },
+      {
+        "name": "Symfony 3.4, Asp.Net, JSF, Codename One",
+        "level": "60%"
+      },
+      {
+        "name": "Python, C++, C, PHP",
+        "level": "60%"
       },
       {
         "name": "Git, Github, Jenkins, JUnit, Sonar, Nexus",
@@ -81,7 +89,7 @@
         "level": "60%"
       },
       {
-        "name": "Design Tools (Adobe XD, Photoshop, After Effects, Premiere Pro, Illustrator)",
+        "name": "Design Tools(Adobe XD, Illustrator, After Effects, Premiere Pro)",
         "level": "70%"
       },
       {
