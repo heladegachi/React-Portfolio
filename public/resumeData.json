@@ -52,9 +52,15 @@
     "work": [
       {
         "company": "Timsoft",
-        "title": "Software Engineer",
-        "years": "Aug 2020 - October 2020",
+        "title": "Software Engineering Intern",
+        "years": "Aug 2020 - Oct 2020",
         "description": "Developed critical modules of a Spa Booking Tool for 'Centre Lella Baya' utilizing Angular 8 and ASP.net Core Web API."
+      },
+      {
+        "company": "Rapid-Post",
+        "title": "Intern",
+        "years": "Aug 2019 - Sept 2019",
+        "description": "Simplified file transfer task by taking part in the design and development of a digitalized file-transfer software."
       },
       {
         "company": "Online",
